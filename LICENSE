@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Eslam Mustafa
+Copyright (c) 2026 Eslam Mustafa (eslaam.mustafa@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+Third-Party Open-Source Acknowledgements:
+- yt-dlp & yt-dlp-ejs: Released into the Public Domain (Unlicense) — https://github.com/yt-dlp/yt-dlp
+- FFmpeg: Licensed under the GNU General Public License v3 (GPLv3) — https://ffmpeg.org/
+- Qt / PySide6: Licensed under the GNU Lesser General Public License v3 (LGPLv3) — https://www.qt.io/
+- Bundled Fonts (Noto Sans, Noto Kufi Arabic): Licensed under the SIL Open Font License 1.1 (see assets/fonts/OFL.txt)
